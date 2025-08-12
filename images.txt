@@ -4,5 +4,8 @@ node:20-alpine
 
 nginx:1.28-alpine
 
+rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest
+
 #支持指定架构
 --platform=linux/amd64 linux/arm64
